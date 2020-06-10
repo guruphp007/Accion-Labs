@@ -16,6 +16,8 @@ To fetch weather info & store it in DB. Follow the steps below
 2. Change city whatever you want.
 3. All the weather information are stored in "weather_info" table
 
+All the libraries, Custom classes like Palindrome, Reverse classes are located in framework folder.
+
 SQL file is located in "database_backup" folder.
 
 Thanks.
